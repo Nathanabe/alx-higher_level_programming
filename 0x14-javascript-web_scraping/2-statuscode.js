@@ -10,5 +10,3 @@ request(URL, function (err, response) {
     console.log('code: ' + response.statusCode);
   }
 });
-Footer
-© 2022 GitHub, Inc.
